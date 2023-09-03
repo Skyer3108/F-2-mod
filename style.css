@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #360369;
+    text-align: center;
+    
+}
+h1{
+    color:white;
+    font-size: 100px;
+    font-weight: 700;
+}
+.fbtn{
+    width:500px;
+
+    height: 50px;
+
+}
+.latlong p{
+    margin-left: 20px;
+    text-align: center;
+    
+    border-radius: 10px;
+    font-size: 36px;
+    font-weight: 700;
+    background-color: #270846;
+    color: white;
+    width: auto;
+    display: inline-block;
+}
+.para-2{
+    font-size: 36px;
+    font-weight: 300;
+    color: white;
+}
+.down{
+    background-color: white;
+    bottom: 0px;
+    margin-top: 50px;
+}
+.data p{
+    background-color: #360369;
+    border-radius: 10px;
+    color: white;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: center;
+   padding:20px;
+   flex-wrap: wrap;
+
+}
+.map{
+    margin: auto;
+}
+h2{
+    color: #360369;
+    
+}
